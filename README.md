@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="900px">
+<img src="https://www.icegif.com/wp-content/uploads/2021/11/icegif-712.gif" width="400px">
 
 
 <h1 align="center">Hi 👋, I'm Fabio Guarani</h1>
