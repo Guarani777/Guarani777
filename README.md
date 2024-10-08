@@ -1,3 +1,6 @@
+<img src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif" width="900px">
+
+
 <h1 align="center">Hi 👋, I'm Fabio Guarani</h1>
 <h3 align="center">Systems Analysis and Development Student</h3>
 
